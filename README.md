@@ -28,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/ScreenShot.png)
+![Mobile View](images/ScreenShot.png)
+![Desktop View](images/ScreenShot-Desktop.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://peaceful-easley-06f863.netlify.app/)
 
 ## My process
 
