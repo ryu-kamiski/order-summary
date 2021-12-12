@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/ScreenShot.jpg)
+![](images/ScreenShot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
