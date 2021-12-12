@@ -30,8 +30,6 @@ Users should be able to:
 
 - Mobile View
 ![Mobile View](images/ScreenShot.png)
-- Desktop View
-![Desktop View](images/ScreenShot-Desktop.png)
 
 ### Links
 
