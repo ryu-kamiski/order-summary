@@ -72,8 +72,8 @@ What I want to continue on?
 
 ## Author
 
-- Website - [Kunal](https://www.your-site.com)
-- Frontend Mentor - [@ryu-kamiski](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Order Summaery](https://peaceful-easley-06f863.netlify.app/)
+- Frontend Mentor - [@ryu-kamiski](https://www.frontendmentor.io/profile/ryu-kamiski)
 
 
 ## Acknowledgments
