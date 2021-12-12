@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-using-flexbox-and-scss-wV1vmPEnM)
 - Live Site URL: [Add live site URL here](https://peaceful-easley-06f863.netlify.app/)
 
 ## My process
